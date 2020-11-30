@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartBrain - v1
 Final project for ZTM course
 
@@ -7,3 +8,6 @@ Final project for ZTM course
 4. You must add your own API key in the `src/App.js` file to connect to Clarifai.
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
+=======
+# Face-recognition API-Frontend
+>>>>>>> 1ed37476dbdfd5f3583503d9399bae55bda57745
