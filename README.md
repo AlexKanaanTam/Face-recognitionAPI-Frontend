@@ -1,1 +1,1 @@
-# Face-recognitionAPI-Frontend
+# Face-recognition-API-Frontend
